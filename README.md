@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0299-bulls-and-cows) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Backtracking
 |  |
@@ -69,4 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+## Hash Table
+|  |
+| ------- |
+| [0299-bulls-and-cows](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0299-bulls-and-cows) |
+## Counting
+|  |
+| ------- |
+| [0299-bulls-and-cows](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0299-bulls-and-cows) |
 <!---LeetCode Topics End-->
