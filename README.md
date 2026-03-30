@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2573-find-the-string-with-lcp](https://github.com/sarthak-agnihotri/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/sarthak-agnihotri/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sarthak-agnihotri/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0217-contains-duplicate) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sarthak-agnihotri/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/sarthak-agnihotri/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Matrix
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0217-contains-duplicate) |
 | [0299-bulls-and-cows](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0299-bulls-and-cows) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sarthak-agnihotri/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/sarthak-agnihotri/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Counting
 |  |
