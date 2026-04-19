@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sarthak-agnihotri/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/sarthak-agnihotri/LeetCode/tree/master/2573-find-the-string-with-lcp) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sarthak-agnihotri/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3488-closest-equal-element-queries](https://github.com/sarthak-agnihotri/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/sarthak-agnihotri/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3643-flip-square-submatrix-vertically](https://github.com/sarthak-agnihotri/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Enumeration
 |  |
