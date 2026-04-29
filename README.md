@@ -98,10 +98,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Sorting
 |  |
@@ -238,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0184-department-highest-salary) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
