@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sarthak-agnihotri/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2463-minimum-total-distance-traveled](https://github.com/sarthak-agnihotri/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1861-rotating-the-box](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/sarthak-agnihotri/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/sarthak-agnihotri/LeetCode/tree/master/2906-construct-product-matrix) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0061-rotate-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1861-rotating-the-box) |
 | [3643-flip-square-submatrix-vertically](https://github.com/sarthak-agnihotri/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Enumeration
 |  |
