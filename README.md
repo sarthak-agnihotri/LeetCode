@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0056-merge-intervals) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0198-house-robber](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0217-contains-duplicate) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sarthak-agnihotri/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3488-closest-equal-element-queries](https://github.com/sarthak-agnihotri/LeetCode/tree/master/3488-closest-equal-element-queries) |
