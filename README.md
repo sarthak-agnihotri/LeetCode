@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0217-contains-duplicate) |
 | [0396-rotate-function](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0396-rotate-function) |
 | [0874-walking-robot-simulation](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0874-walking-robot-simulation) |
+| [0992-subarrays-with-k-different-integers](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0217-contains-duplicate) |
 | [0299-bulls-and-cows](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0874-walking-robot-simulation](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0874-walking-robot-simulation) |
+| [0992-subarrays-with-k-different-integers](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [2615-sum-of-distances](https://github.com/sarthak-agnihotri/LeetCode/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sarthak-agnihotri/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3488-closest-equal-element-queries](https://github.com/sarthak-agnihotri/LeetCode/tree/master/3488-closest-equal-element-queries) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0299-bulls-and-cows) |
+| [0992-subarrays-with-k-different-integers](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [2833-furthest-point-from-origin](https://github.com/sarthak-agnihotri/LeetCode/tree/master/2833-furthest-point-from-origin) |
 ## Linked List
 |  |
@@ -277,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sarthak-agnihotri/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## Sliding Window
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
