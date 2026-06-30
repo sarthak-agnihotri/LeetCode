@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0217-contains-duplicate) |
 | [0396-rotate-function](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0396-rotate-function) |
+| [0735-asteroid-collision](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0735-asteroid-collision) |
 | [0874-walking-robot-simulation](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0992-subarrays-with-k-different-integers](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0043-multiply-strings) |
 | [0657-robot-return-to-origin](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0735-asteroid-collision](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0735-asteroid-collision) |
 | [0874-walking-robot-simulation](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2069-walking-robot-simulation-ii](https://github.com/sarthak-agnihotri/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0735-asteroid-collision](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0735-asteroid-collision) |
 | [2751-robot-collisions](https://github.com/sarthak-agnihotri/LeetCode/tree/master/2751-robot-collisions) |
 ## Divide and Conquer
 |  |
