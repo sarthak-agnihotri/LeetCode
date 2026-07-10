@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0788-rotated-digits) |
 | [1622-fancy-sequence](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1922-count-good-numbers](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1922-count-good-numbers) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sarthak-agnihotri/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sarthak-agnihotri/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sarthak-agnihotri/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -295,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+## Recursion
+|  |
+| ------- |
+| [1922-count-good-numbers](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
