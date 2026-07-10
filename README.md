@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0735-asteroid-collision) |
 | [0874-walking-robot-simulation](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0992-subarrays-with-k-different-integers](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1122-relative-sort-array](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1122-relative-sort-array) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0217-contains-duplicate) |
+| [1122-relative-sort-array](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1122-relative-sort-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2463-minimum-total-distance-traveled](https://github.com/sarthak-agnihotri/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0874-walking-robot-simulation](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0992-subarrays-with-k-different-integers](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1122-relative-sort-array](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1122-relative-sort-array) |
 | [2615-sum-of-distances](https://github.com/sarthak-agnihotri/LeetCode/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sarthak-agnihotri/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3488-closest-equal-element-queries](https://github.com/sarthak-agnihotri/LeetCode/tree/master/3488-closest-equal-element-queries) |
@@ -300,4 +303,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1922-count-good-numbers](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1922-count-good-numbers) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
