@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0396-rotate-function) |
 | [0735-asteroid-collision](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0735-asteroid-collision) |
 | [0874-walking-robot-simulation](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0874-walking-robot-simulation) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0992-subarrays-with-k-different-integers](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1122-relative-sort-array](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1122-relative-sort-array) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/sarthak-agnihotri/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sarthak-agnihotri/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0217-contains-duplicate) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1122-relative-sort-array](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1122-relative-sort-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0299-bulls-and-cows) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0992-subarrays-with-k-different-integers](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [2833-furthest-point-from-origin](https://github.com/sarthak-agnihotri/LeetCode/tree/master/2833-furthest-point-from-origin) |
 ## Linked List
