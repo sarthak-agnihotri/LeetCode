@@ -1,38 +1,39 @@
 class Solution {
+int l,m,n;
+int[][] directions = {{0,1},{0,-1},{1,0},{-1,0}};
+public boolean find(char[][] board,int i,int j,String word,int idx){
+    if(idx >= l)
+        return true;
 
-    public boolean exist(char[][] board, String word) {
+    if(i < 0 || i >= m || j < 0 || j >= n || board[i][j] != word.charAt(idx))
+        return false;
 
-        int rows = board.length;
-        int cols = board[0].length;
+    char temp = board[i][j];
+    board[i][j] = '$';
 
-        for (int i = 0; i < rows; i++) {
-            for (int j = 0; j < cols; j++) {
+    for(int[] dir : directions) {
+        int i_ = i + dir[0];
+        int j_ = j + dir[1];
 
-                if (dfs(board, word, i, j, 0))
-                    return true;
+        if(find(board, i_, j_, word, idx+1))
+            return true;
+    }
+
+    board[i][j] = temp;
+    return false;
+}
+public boolean exist(char[][] board, String word) {
+    m = board.length;
+    n = board[0].length;
+    l = word.length();
+    for(int i = 0; i<m; i++) {
+        for(int j = 0; j<n; j++) {
+            if(board[i][j] == word.charAt(0) && find(board, i, j, word, 0)) {
+                return true;
             }
         }
-
-        return false;
     }
 
-    private boolean dfs(char[][] board, String word, int row, int col, int index) {
-        if (index == word.length())
-            return true;
-        if (row < 0 || row >= board.length ||col < 0 || col >= board[0].length ||
-            board[row][col] != word.charAt(index))
-            return false;
-
-        char temp = board[row][col];
-        board[row][col] = '#';
-        boolean found =
-                dfs(board, word, row + 1, col, index + 1) ||
-                dfs(board, word, row - 1, col, index + 1) ||
-                dfs(board, word, row, col + 1, index + 1) ||
-                dfs(board, word, row, col - 1, index + 1);
-
-        board[row][col] = temp;
-
-        return found;
-    }
+    return false;
+}
 }
