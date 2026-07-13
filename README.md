@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0075-sort-colors) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0216-combination-sum-iii) |
