@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0056-merge-intervals) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0090-subsets-ii) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0200-number-of-islands) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0037-sudoku-solver) |
 | [0146-lru-cache](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0217-contains-duplicate) |
 | [0299-bulls-and-cows](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0299-bulls-and-cows) |
