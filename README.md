@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0146-lru-cache) |
+| [0173-binary-search-tree-iterator](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [1622-fancy-sequence](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/sarthak-agnihotri/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 ## Segment Tree
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0099-recover-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0543-diameter-of-binary-tree](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0099-recover-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0543-diameter-of-binary-tree](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Sorting
 |  |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0173-binary-search-tree-iterator](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0735-asteroid-collision](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0735-asteroid-collision) |
 | [2751-robot-collisions](https://github.com/sarthak-agnihotri/LeetCode/tree/master/2751-robot-collisions) |
 ## Divide and Conquer
@@ -321,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0099-recover-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 ## Number Theory
 |  |
 | ------- |
@@ -355,4 +360,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0090-subsets-ii) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
