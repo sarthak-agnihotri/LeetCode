@@ -1,14 +1,15 @@
 class Solution {
+    public int solve(int[] nums,int i,int[]dp){
+        if(i>=nums.length)return 0;
+        if(dp[i]!=-1)return dp[i];
+        int steal=nums[i]+solve(nums,i+2,dp);
+        int skip=solve(nums,i+1,dp);
+        return dp[i]=Math.max(steal,skip);
+    }
     public int rob(int[] nums) {
-        int prev2 = 0; // dp[i-2]
-        int prev1 = 0; // dp[i-1]
-
-        for (int num : nums) {
-            int curr = Math.max(prev1, prev2 + num);
-            prev2 = prev1;
-            prev1 = curr;
-        }
-
-        return prev1;
+        int n=nums.length;
+        int[]dp=new int[n+1];
+        Arrays.fill(dp,-1);
+        return solve(nums,0,dp);
     }
 }
