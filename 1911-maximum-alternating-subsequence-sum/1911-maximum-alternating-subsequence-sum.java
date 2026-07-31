@@ -1,59 +1,44 @@
 class Solution {
 
-    // dp[index][flag]
-    // index -> current position
-    // flag = 1 -> next picked element '+' banega
-    // flag = 0 -> next picked element '-' banega
-    Long[][] dp;
-
-    public long solve(int start, int[] nums, int flag) {
-
-        // Base Case:
-        // Agar array ke end tak pahunch gaye,
-        // to aur koi element pick nahi kar sakte.
-        if (start == nums.length)
-            return 0;
-
-        // Agar ye state pehle se calculate ho chuki hai,
-        // to directly stored answer return kar do.
-        if (dp[start][flag] != null)
-            return dp[start][flag];
-
-        // Choice 1:
-        // Current element ko skip kar do.
-        // Flag same rahega kyunki kuch pick hi nahi kiya.
-        long skip = solve(start + 1, nums, flag);
-
-        // Choice 2:
-        // Current element ko pick karo.
-        long take;
-
-        if (flag == 1) {
-
-            // Current element '+' sign ke saath add hoga.
-            // Next picked element '-' sign ke saath hoga.
-            take = nums[start] + solve(start + 1, nums, 0);
-
-        } else {
-
-            // Current element '-' sign ke saath subtract hoga.
-            // Next picked element '+' sign ke saath hoga.
-            take = -nums[start] + solve(start + 1, nums, 1);
-        }
-
-        // Dono choices me jo maximum answer de,
-        // usse memo table me store kar do.
-        return dp[start][flag] = Math.max(skip, take);
-    }
-
     public long maxAlternatingSum(int[] nums) {
 
-        // Total states = n * 2
-        // n indices aur 2 possible flags.
-        dp = new Long[nums.length][2];
+        int n = nums.length;
 
-        // Initially next picked element '+' hoga,
-        // isliye flag = 1 se start karte hain.
-        return solve(0, nums, 1);
+        // dp[i][1] -> next picked element '+' hoga
+        // dp[i][0] -> next picked element '-' hoga
+        long[][] dp = new long[n + 1][2];
+
+        // Base Case:
+        // Array ke end ke baad answer 0 hai.
+        dp[n][0] = 0;
+        dp[n][1] = 0;
+
+        // Last index se first index tak fill karenge.
+        for (int i = n - 1; i >= 0; i--) {
+
+            // -------- Flag = 1 (Next sign '+') --------
+
+            // Current element skip karo.
+            long skipPlus = dp[i + 1][1];
+
+            // Current element pick karo '+' sign ke saath.
+            long takePlus = nums[i] + dp[i + 1][0];
+
+            dp[i][1] = Math.max(skipPlus, takePlus);
+
+
+            // -------- Flag = 0 (Next sign '-') --------
+
+            // Current element skip karo.
+            long skipMinus = dp[i + 1][0];
+
+            // Current element pick karo '-' sign ke saath.
+            long takeMinus = -nums[i] + dp[i + 1][1];
+
+            dp[i][0] = Math.max(skipMinus, takeMinus);
+        }
+
+        // Initially first picked element '+' hota hai.
+        return dp[0][1];
     }
 }
