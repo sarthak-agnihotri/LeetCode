@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0217-contains-duplicate) |
+| [0300-longest-increasing-subsequence](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0396-rotate-function) |
 | [0735-asteroid-collision](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0735-asteroid-collision) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sarthak-agnihotri/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3488-closest-equal-element-queries](https://github.com/sarthak-agnihotri/LeetCode/tree/master/3488-closest-equal-element-queries) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0396-rotate-function](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0788-rotated-digits) |
