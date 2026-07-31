@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1914-cyclically-rotating-a-grid](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/sarthak-agnihotri/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sarthak-agnihotri/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0788-rotated-digits) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2463-minimum-total-distance-traveled](https://github.com/sarthak-agnihotri/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/sarthak-agnihotri/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/sarthak-agnihotri/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
