@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0486-predict-the-winner) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0735-asteroid-collision](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0735-asteroid-collision) |
 | [0874-walking-robot-simulation](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0874-walking-robot-simulation) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0070-climbing-stairs) |
 | [0396-rotate-function](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0788-rotated-digits) |
 | [1622-fancy-sequence](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1622-fancy-sequence) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0396-rotate-function](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0788-rotated-digits](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0788-rotated-digits) |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1922-count-good-numbers) |
 ## Counting Sort
@@ -409,4 +413,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0509-fibonacci-number) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
