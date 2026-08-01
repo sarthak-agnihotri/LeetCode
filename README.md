@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0396-rotate-function) |
+| [0646-maximum-length-of-pair-chain](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0735-asteroid-collision](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0735-asteroid-collision) |
 | [0874-walking-robot-simulation](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0646-maximum-length-of-pair-chain](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/sarthak-agnihotri/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0646-maximum-length-of-pair-chain](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1122-relative-sort-array](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0396-rotate-function](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0509-fibonacci-number) |
+| [0646-maximum-length-of-pair-chain](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0788-rotated-digits](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0788-rotated-digits) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1911-maximum-alternating-subsequence-sum) |
