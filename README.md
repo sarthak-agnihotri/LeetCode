@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0992-subarrays-with-k-different-integers](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1048-longest-string-chain](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1048-longest-string-chain) |
 | [1122-relative-sort-array](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0657-robot-return-to-origin](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0796-rotate-string) |
+| [1048-longest-string-chain](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1048-longest-string-chain) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/sarthak-agnihotri/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sarthak-agnihotri/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [1048-longest-string-chain](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1048-longest-string-chain) |
 | [1122-relative-sort-array](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0874-walking-robot-simulation](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0992-subarrays-with-k-different-integers](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1048-longest-string-chain](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1048-longest-string-chain) |
 | [1122-relative-sort-array](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2615-sum-of-distances](https://github.com/sarthak-agnihotri/LeetCode/tree/master/2615-sum-of-distances) |
@@ -279,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0788-rotated-digits](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0788-rotated-digits) |
+| [1048-longest-string-chain](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1048-longest-string-chain) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2463-minimum-total-distance-traveled](https://github.com/sarthak-agnihotri/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
@@ -309,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0075-sort-colors) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1048-longest-string-chain](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1048-longest-string-chain) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1861-rotating-the-box) |
 | [3643-flip-square-submatrix-vertically](https://github.com/sarthak-agnihotri/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
