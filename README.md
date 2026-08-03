@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2615-sum-of-distances](https://github.com/sarthak-agnihotri/LeetCode/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/sarthak-agnihotri/LeetCode/tree/master/2906-construct-product-matrix) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0877-stone-game) |
 | [1048-longest-string-chain](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1048-longest-string-chain) |
 | [1406-stone-game-iii](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1406-stone-game-iii) |
+| [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2463-minimum-total-distance-traveled](https://github.com/sarthak-agnihotri/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
