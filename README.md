@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0796-rotate-string) |
 | [1048-longest-string-chain](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1048-longest-string-chain) |
+| [1092-shortest-common-supersequence](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/sarthak-agnihotri/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/sarthak-agnihotri/LeetCode/tree/master/0877-stone-game) |
 | [1048-longest-string-chain](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1048-longest-string-chain) |
+| [1092-shortest-common-supersequence](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1406-stone-game-iii) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
@@ -458,5 +460,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [1092-shortest-common-supersequence](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/sarthak-agnihotri/LeetCode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
